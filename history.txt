@@ -1,0 +1,5 @@
+Song{time=30.0, name='ffsfsfs', singer='fsfsfsfsf'}
+Interview{time=25.0, name='feffwfw', price=30.0}
+Advertising{time=5.0, name='gegege', price=300.0}
+Song{time=25.0, name='efeefef', singer='ggg'}
+Interview{time=5.0, name='grgrgr', price=30.0}
